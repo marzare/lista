@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9mImTTk2ah18g8PFpPzvXId/v23Qtezp7Ko77ALs2lSJVDvFakVhhKxGVrkEiSqPKZLZfvrYbmi0iMlsmGMQg==",
+  "success": true,
+  "projectFilePath": "D:\\Marcel Zarębski\\ListaUczestnikow\\ListaUczestnikow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zarebski.marcel\\.nuget\\packages\\microsoft.data.sqlite\\7.0.1\\microsoft.data.sqlite.7.0.1.nupkg.sha512",
+    "C:\\Users\\zarebski.marcel\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
+    "C:\\Users\\zarebski.marcel\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\zarebski.marcel\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\zarebski.marcel\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\zarebski.marcel\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\zarebski.marcel\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
